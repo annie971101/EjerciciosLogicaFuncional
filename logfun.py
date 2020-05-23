@@ -46,4 +46,4 @@ Requisitos = Requisitos <= S
 
 print("¿Es candidato?: ",Requisitos)
 
-#Oracle,SQL/PL,Linux,Unix,Shell,C++,Proc*C,TuxedoV12,VB6,Java,WebServices,MicroServicios
+#Oracle, SQL/PL, Linux, Unix, Shell, C++, Proc*C, TuxedoV12, VB6, Java, WebServices, MicroServicios
