@@ -32,11 +32,13 @@ Requisitos = {
 } 
 
 
-print("¿Qué lenguajes de programacion manejas? (separalos con , )")
+print("¿Qué lenguajes de programacion maneja? ")
 
 RequisitosUsuario = input()
 
-R = RequisitosUsuario.split(',')
+X = RequisitosUsuario.replace(' ','')
+
+R = X.split(',')
 
 S = set(R)
 
